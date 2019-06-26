@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 32076ac9d806efd43bdc70d7a3585e78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Notes: {instanceID: 0}
+  - FrontNNotes: {fileID: 1594978163203598, guid: 014f66578cea68f43ba9ca8fd594dfef,
+      type: 3}
+  - FrontHNotes: {instanceID: 0}
+  - FrontUnderNotes: {instanceID: 0}
+  - FrontHold: {fileID: 1070035035222072, guid: 4a2ccd5b9e46a594681dd770691a3e55,
+      type: 3}
+  - MoveObjects: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - Par_LeftLine: {instanceID: 0}
+  - Par_RightLine: {instanceID: 0}
+  - Par_OverLine: {instanceID: 0}
+  - Par_White: {instanceID: 0}
+  - Par_Black: {instanceID: 0}
+  - Thumbnail: {instanceID: 0}
+  - LoadPanel: {instanceID: 0}
+  - SongName: {instanceID: 0}
+  - Composer: {instanceID: 0}
+  - BPM_: {instanceID: 0}
+  - Lv: {instanceID: 0}
+  - camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
